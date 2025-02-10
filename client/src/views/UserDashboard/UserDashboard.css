@@ -1,0 +1,35 @@
+.body{
+    height: 100vh;
+}
+.bag{
+    background-color: #fb5f04;
+    width: 110px;
+}
+.bod{
+    border: 1px solid #fb5f04;
+    width: 110px;
+}
+.bag-c{
+    background-color: #fb5f04;
+    width: 150px;
+}
+.menu-box-user{
+    height: 75vh;
+}
+.imd-pro{
+    height: 200px;
+    width: 200px;
+}
+.imd-pro-1{
+    height: 280px;
+    width: 280px;
+}
+.icon-ht{
+    height: 40px;
+    cursor: pointer;
+}
+ @media screen and (max-width: 600px){
+    .menu-box-user{
+        height: auto;
+    }
+}
